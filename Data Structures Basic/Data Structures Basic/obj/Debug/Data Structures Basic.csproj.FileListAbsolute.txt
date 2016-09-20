@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\bin\Debug\Data Structures Basic.exe.config
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\bin\Debug\Data Structures Basic.exe
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\bin\Debug\Data Structures Basic.pdb
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\obj\Debug\Data Structures Basic.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\obj\Debug\Data Structures Basic.exe
+\\mac\home\documents\visual studio 2013\Projects\Data Structures Basic\Data Structures Basic\obj\Debug\Data Structures Basic.pdb
