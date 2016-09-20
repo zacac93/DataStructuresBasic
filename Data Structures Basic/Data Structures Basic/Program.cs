@@ -49,6 +49,7 @@ namespace DataStructuresBasic
                 //assign current key and value to temp values
                 tempName = myQueue.Dequeue();
                 tempInt = randomNumberInRange();
+                //if duplicate added, catch and update number of burgers
                 try
                 {
                     myDictionary.Add(tempName, tempInt);
